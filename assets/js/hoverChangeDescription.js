@@ -6,6 +6,6 @@ export function hoverChangeDescription(nameCard, text) {
   });
 
   document.querySelector(nameCard).addEventListener("mouseout", () => {
-    changeDescription.innerHTML = `Hover over the card to read*`;
+    changeDescription.innerHTML = `Tools and Technologies`;
   });
 }

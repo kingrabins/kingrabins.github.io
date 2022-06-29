@@ -13,29 +13,29 @@ hoverChangeDescription(
 );
 hoverChangeDescription(
   ".css",
-  "CSS é uma linguagem de folha de estilo composta por “camadas”, criado com o propósito de estilizar as páginas HTML."
+  "Adobe XD is a vector-based UI and UX design tool and it can be used to design anything from smartwatch apps to fully fledged websites."
 );
 hoverChangeDescription(
   ".js",
-  "JavaScript é uma linguagem de programação interpretada estruturada, de script em alto nível com tipagem dinâmica fraca e multiparadigma."
+  "Adobe Illustrator is a professional vector-based design and drawing program used to create posters, symbols, logos, patterns, icons, etc."
 );
 hoverChangeDescription(
   ".sass",
-  "Sass (pré-processador css) é uma linguagem de folhas de estilo. É uma simples linguagem de script usada em arquivos Sass."
+  "Adobe After Effects is an application for creating motion graphics and special effects. These effects can be created in videos, online digital content and presentations."
 );
 hoverChangeDescription(
   ".react",
-  "ReactJS é uma biblioteca JavaScript de código aberto com foco em criar interfaces de usuário em páginas web."
+  "Photoshop is an image creation, graphic design and photo editing software for pixel-based images, raster graphics and vector graphics."
 );
 hoverChangeDescription(
   ".next",
-  "Next.js é uma estrutura da web que permite funcionalidades como renderização do lado do servidor e geração de sites estáticos para web baseados em React."
+  "Asana is a web and mobile work management platform designed to help teams organize, track, and manage the teamwork. "
 );
 hoverChangeDescription(
   ".styled",
-  "Styled Components é uma biblioteca que utiliza o conceito de CSS-in-JS, ou seja, que nos permite escrever códigos CSS dentro do Javascript."
+  "React JS is a JavaScript library used in web development to build interactive elements (user interfaces based on UI components) on websites."
 );
 hoverChangeDescription(
   ".tailwind",
-  "Tailwind CSS é um framework desenvolvido para maximizar o potencial do bom e velho CSS e levá-lo ainda mais longe."
+  "Flutter is an open-source UI software development kit used to develop cross platform applications for Android, iOS, Linux, macOS, Windows, Google Fuchsia, and the web from a single codebase. "
 );
