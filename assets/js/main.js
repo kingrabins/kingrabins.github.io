@@ -9,7 +9,7 @@ typeWrite(document.querySelector(".typewriter"));
 
 hoverChangeDescription(
   ".html",
-  "HTML é uma linguagem baseada em marcação, onde marcamos os elementos para definir quais informações a página vai exibir."
+  "The modern interface design tool. Figma is a free, online UI tool to create, collaborate, prototype, and handoff."
 );
 hoverChangeDescription(
   ".css",
