@@ -497,31 +497,37 @@ header .grid-layout nav .nav-list li a:hover {
   font-line-height: 160%;
 }
 
-#s-projects {
+#s-experience {
   padding: 96px 48px;
   text-align: center;
   background-color: #080713;
 }
 
 @media screen and (max-width: 992px) {
-  #s-projects {
+  #s-experience {
     padding: 48px 16px;
   }
 }
 
-#s-projects .grid-layout h2 {
+#s-experience .grid-layout h2 {
   padding-bottom: 24px;
   color: #fafafa;
   font-size: 4rem;
   font-weight: 500;
 }
+#projects h4{
+  padding: 8px 0px;
+  color: #6610f2;
+  font-size: 2rem;
+  font-weight: 400;
+}
 
-#s-projects .grid-layout h2 span {
+#s-experience .grid-layout h2 span {
   color: #6610f2;
   font-size: 64px;
 }
 
-#s-projects .grid-layout #projects {
+#s-experience .grid-layout #projects {
   margin: 24px 0px;
   display: flex;
   justify-content: space-between;
@@ -530,7 +536,7 @@ header .grid-layout nav .nav-list li a:hover {
   text-align: left;
 }
 
-#s-projects .grid-layout #projects > article {
+#s-experience .grid-layout #projects > article {
   background-color: #0b0a17;
   height: auto;
   padding: 32px;
@@ -541,29 +547,29 @@ header .grid-layout nav .nav-list li a:hover {
   transition: 1s all ease;
 }
 
-#s-projects .grid-layout #projects > article:hover {
+#s-experience .grid-layout #projects > article:hover {
   border: 1px solid #6610f2;
 }
 
 @media screen and (max-width: 1200px) {
-  #s-projects .grid-layout #projects > article {
+  #s-experience .grid-layout #projects > article {
     flex-basis: calc(50% - 20px);
   }
 }
 
 @media screen and (max-width: 768px) {
-  #s-projects .grid-layout #projects > article {
+  #s-experience .grid-layout #projects > article {
     flex-basis: calc(100% - 20px);
   }
 }
 
-#s-projects .grid-layout #projects > article h3 {
+#s-experience .grid-layout #projects > article h3 {
   color: #fafafa;
   font-size: 2.4rem;
   font-weight: 500;
 }
 
-#s-projects .grid-layout #projects > article p {
+#s-experience .grid-layout #projects > article p {
   line-height: 24px;
   margin-top: 24px;
   color: #909090;
@@ -572,14 +578,14 @@ header .grid-layout nav .nav-list li a:hover {
   font-size: 1.8rem;
 }
 
-#s-projects .grid-layout a {
+#s-experience .grid-layout a {
   color: #6610f2;
   position: relative;
   font-size: 1.8rem;
   font-weight: 500;
 }
 
-#s-projects .grid-layout a::after {
+#s-experience .grid-layout a::after {
   content: "";
   position: absolute;
   width: 100%;
@@ -592,7 +598,7 @@ header .grid-layout nav .nav-list li a:hover {
   transition: transform 0.5s cubic-bezier(0.86, 0, 0.07, 1);
 }
 
-#s-projects .grid-layout a:hover::after {
+#s-experience .grid-layout a:hover::after {
   transform: scaleX(1);
   transform-origin: bottom left;
 }
