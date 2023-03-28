@@ -460,9 +460,7 @@ header .grid-layout nav .nav-list li a:hover {
 
 @media screen and (max-width: 1200px) {
   #s-about .grid-layout #about-photo {
-    width: 50%;
-    max-width: 200px;
-    align-content: center;
+    display: none;
   }
 }
 
