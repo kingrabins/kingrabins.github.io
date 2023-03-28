@@ -458,11 +458,12 @@ header .grid-layout nav .nav-list li a:hover {
   max-width: 400px;
 }
 
-/* @media screen and (max-width: 1200px) {
+@media screen and (max-width: 1200px) {
   #s-about .grid-layout #about-photo {
-    display: none;
+    width: 50%;
+    max-width: 200px;
   }
-} */
+}
 
 #s-about .grid-layout #about-text {
   width: 50%;
