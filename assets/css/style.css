@@ -500,7 +500,7 @@ header .grid-layout nav .nav-list li a:hover {
 #s-experience {
   padding: 96px 48px;
   text-align: center;
-  background-color: #080713;
+  background-color: #000000;
 }
 
 @media screen and (max-width: 992px) {
@@ -605,7 +605,7 @@ header .grid-layout nav .nav-list li a:hover {
 
 #s-services {
   padding: 96px 48px;
-  background-color: #0b0a17;
+  background-color: #000000;
 }
 
 @media screen and (max-width: 992px) {
@@ -685,7 +685,7 @@ header .grid-layout nav .nav-list li a:hover {
 
 #s-skills {
   padding: 96px 48px;
-  background-color: #080713;
+  background-color: #000000;
   padding-bottom: 32px;
 }
 
