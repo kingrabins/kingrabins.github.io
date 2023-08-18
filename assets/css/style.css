@@ -6,7 +6,7 @@
 }
 
 ::selection {
-  background-color: #6610f2;
+  background-color: #934CF6;
   color: #fafafa;
 }
 
@@ -67,7 +67,7 @@ html {
 }
 
 ::-webkit-scrollbar-thumb {
-  background-color: #6610f2;
+  background-color: #934CF6;
   border-radius: 8px;
 }
 
@@ -132,7 +132,7 @@ header .grid-layout nav .nav-list li a::after {
   height: 1px;
   bottom: -7px;
   left: 0;
-  background: linear-gradient(270deg, #6610f2 0%, #17161d 100%);
+  background: linear-gradient(270deg, #934CF6 0%, #17161d 100%);
   transform-origin: bottom right;
   transition: transform 0.5s cubic-bezier(0.86, 0, 0.07, 1);
 }
@@ -485,7 +485,7 @@ header .grid-layout nav .nav-list li a:hover {
 }
 
 #s-about .grid-layout #about-text h2 span {
-  color: #6610f2;
+  color: #934CF6;
   font-size: 4.8rem;
 }
 
@@ -517,13 +517,13 @@ header .grid-layout nav .nav-list li a:hover {
 }
 #projects h4{
   padding: 8px 0px;
-  color: #6610f2;
+  color: #934CF6;
   font-size: 2rem;
   font-weight: 400;
 }
 
 #s-experience .grid-layout h2 span {
-  color: #6610f2;
+  color: #934CF6;
   font-size: 64px;
 }
 
@@ -548,7 +548,7 @@ header .grid-layout nav .nav-list li a:hover {
 }
 
 #s-experience .grid-layout #projects > article:hover {
-  border: 1px solid #6610f2;
+  border: 1px solid #934CF6;
 }
 
 @media screen and (max-width: 1200px) {
@@ -579,7 +579,7 @@ header .grid-layout nav .nav-list li a:hover {
 }
 
 #s-experience .grid-layout a {
-  color: #6610f2;
+  color: #934CF6;
   position: relative;
   font-size: 1.8rem;
   font-weight: 500;
@@ -593,7 +593,7 @@ header .grid-layout nav .nav-list li a:hover {
   height: 1px;
   bottom: -7px;
   left: 0;
-  background: linear-gradient(270deg, #6610f2 0%, #17161d 100%);
+  background: linear-gradient(270deg, #934CF6 0%, #17161d 100%);
   transform-origin: bottom right;
   transition: transform 0.5s cubic-bezier(0.86, 0, 0.07, 1);
 }
@@ -623,7 +623,7 @@ header .grid-layout nav .nav-list li a:hover {
 }
 
 #s-services .grid-layout h2 span {
-  color: #6610f2;
+  color: #934CF6;
   font-size: 64px;
 }
 
@@ -646,7 +646,7 @@ header .grid-layout nav .nav-list li a:hover {
 }
 
 #s-services .grid-layout #services article:hover {
-  border: 1px solid #6610f2;
+  border: 1px solid #934CF6;
 }
 
 @media screen and (max-width: 1200px) {
@@ -728,7 +728,7 @@ header .grid-layout nav .nav-list li a:hover {
 }
 
 #s-skills .grid-layout #skills #skills-text h2 span {
-  color: #6610f2;
+  color: #934CF6;
   font-size: 64px;
 }
 
@@ -772,7 +772,7 @@ header .grid-layout nav .nav-list li a:hover {
 }
 
 #s-skills .grid-layout #skills #skills-cards article:hover {
-  border: 1px solid #6610f2;
+  border: 1px solid #934CF6;
 }
 
 #s-skills .grid-layout #skills #skills-cards article:hover .skills-cards-name, #s-skills .grid-layout #skills #skills-cards article:hover .skills-cards-name-high, #s-skills .grid-layout #skills #skills-cards article:hover .skills-cards-name-low {
@@ -875,7 +875,7 @@ footer .grid-layout div img {
   margin-left: 8px;
   opacity: 1;
   animation: blink 1s infinite;
-  color: #6610f2;
+  color: #934CF6;
 }
 
 @keyframes blink {
