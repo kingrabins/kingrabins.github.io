@@ -268,7 +268,7 @@ header .grid-layout nav .nav-list li a:hover {
 }
 
 #s-home .grid-layout #home #home-container-text a {
-  background: linear-gradient(225deg, rgba(102, 16, 242, 0.3) 0%, rgba(102, 16, 242, 0) 100%);
+  background: #000000;
   color: #fafafa;
   backdrop-filter: blur(10px);
   padding: 15px 30px;
@@ -287,7 +287,7 @@ header .grid-layout nav .nav-list li a:hover {
 #s-home .grid-layout #home #home-container-text a:hover {
   padding: 15px 45px;
   max-width: 280px;
-  background: linear-gradient(225deg, rgba(102, 16, 242, 0.6) 0%, rgba(102, 16, 242, 0) 100%);
+  background: linear-gradient(225deg, rgba(103, 16, 242, 0.367) 0%, rgba(102, 16, 242, 0) 100%);
 }
 
 #s-home .grid-layout #home #home-container-photo {
