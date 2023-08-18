@@ -25,7 +25,7 @@ hoverChangeDescription(
 );
 hoverChangeDescription(
   ".react",
-  "Photoshop is an image creation, graphic design and photo editing software for pixel-based images, raster graphics and vector graphics."
+  "Blender is a powerful open-source 3D creation suite that enables artists and designers to create a wide range of visuals, including animations, models, simulations, and more. "
 );
 hoverChangeDescription(
   ".next",
